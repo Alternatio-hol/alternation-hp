@@ -317,8 +317,9 @@ div.background {
 }
 
 .businessArea_contents {
-  width: 600px;
+  width: 630px;
   margin: 0 auto;
+  font-size: 20px;
 }
 
 .archives_contents {
